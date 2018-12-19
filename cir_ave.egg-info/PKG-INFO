@@ -2,7 +2,7 @@ Metadata-Version: 1.2
 Name: cir-ave
 Version: 0.0.0
 Summary: python package for 1D data reduction of  x-ray scattering
-Home-page: UNKNOWN
+Home-page: https://github.com/ligerliu/mpi_test
 Author: Jiliang Liu
 Author-email: ligerliu@gmail.com
 License: MIT

@@ -1,0 +1,3 @@
+include simple_cubic.tif
+
+recursive-include *.rst conf.py Makefile make.bat

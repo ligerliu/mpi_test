@@ -8,12 +8,18 @@ setup(
     author='Jiliang Liu',
     author_email='ligerliu@gmail.com',
     license="MIT",
-    url="",
+    url="https://github.com/ligerliu/mpi_test",
     packages=['cir_ave'],
     install_requires=['numpy',
                       'scipy',
-                      'matplotlib'],
+                      'matplotlib',
+                      'scikit-image',
+                     ],
     python_requires='>=3',
+    package_data={'cir_ave':[
+                      'simple_cubic.tif',
+                      ]
+                 },
     classifiers=[
         "Intended Audience :: Science/Research",
         "Topic :: Scientific/Engineering :: Information Analysis",
