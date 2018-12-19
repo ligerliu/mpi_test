@@ -9,8 +9,9 @@ Welcome to sphinx_test's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-
+   
+   getting_started.rst
+   usage.rst
 
 Indices and tables
 ==================
